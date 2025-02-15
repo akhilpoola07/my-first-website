@@ -1,0 +1,47 @@
+
+body
+{
+    background-color:white;
+}
+table th{
+    background-color: blue;
+    padding: 5px 15px 5px 15px;
+    
+    
+    color: white;
+}
+table td{
+    background-color: white;
+    margin: 0px 0px 0px 0px;
+    
+
+}
+table td:nth-child(odd){
+    background-color: rgb(158, 188, 129);
+}
+table{
+    text-align: center;
+    margin: 0px 10px 0px 10px;
+  
+   border-style: solid;
+   background-color: bisque;
+
+
+   border-color: black;
+   border-radius: 5px;
+   padding: 18px;
+   font-size: large;
+
+}
+table:hover{
+    background-color: beige;
+}
+.main{
+    background-color: rgb(217, 196, 196);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    color: red;
+
+}
